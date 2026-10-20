@@ -1,0 +1,30 @@
+# Secrets & Config
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.venv/
+venv/
+
+# Flutter & Dart
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Ephemeral OS builds
+retainiq_app/macos/Flutter/ephemeral/
+retainiq_app/ios/Flutter/ephemeral/
+retainiq_app/windows/flutter/ephemeral/
+retainiq_app/linux/flutter/ephemeral/
+
+# IDE & OS
+.DS_Store
+Thumbs.db
+.idea/
+*.iml

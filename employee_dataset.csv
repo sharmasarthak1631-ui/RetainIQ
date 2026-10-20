@@ -1,0 +1,21 @@
+Employee ID,Department,Tenure (months),Engagement (0-10),Manager Change,Growth Score (0-10),Pay Satisfaction (0-10),Work-Life (0-10),Absence Days,Performance (0-10)
+E001,Support,8,4,Yes,4,3,3,0,10
+E002,Finance,6,2,Yes,3,4,2,4,7
+E003,Support,9,3,Yes,3,4,3,11,5
+E004,Technology,7,4,Yes,2,3,4,3,10
+E005,Sales,11,2,Yes,3,3,3,12,8
+E006,HR,3,2,Yes,3,4,3,12,10
+E007,Sales,31,6,Yes,4,7,4,5,5
+E008,Sales,31,5,No,4,7,4,6,10
+E009,Finance,23,7,Yes,4,5,4,12,10
+E010,HR,33,5,No,6,6,5,9,8
+E011,Support,33,6,No,4,6,4,10,5
+E012,Technology,38,7,No,8,7,10,7,8
+E013,Support,53,9,No,7,9,8,15,6
+E014,Finance,39,8,No,9,8,10,14,10
+E015,Finance,31,8,No,8,10,9,3,7
+E016,Support,49,7,No,9,10,10,12,7
+E017,Technology,28,10,No,9,9,8,1,9
+E018,Finance,42,7,No,9,10,7,0,10
+E019,Technology,40,8,No,7,10,10,12,8
+E020,Support,41,8,No,10,9,10,9,8
